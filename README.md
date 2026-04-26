@@ -1,6 +1,7 @@
 # 🤖 Samsung Innovation Campus — AI Course
 
-> My personal learning journal for the **Samsung Innovation Campus AI Course** (270 hours of learning + 80 hours Capstone Project).
+> My personal learning journal for the **Samsung Innovation Campus AI Course**  
+> 270 hours of learning + 80 hours Capstone Project
 
 ---
 
@@ -13,18 +14,17 @@ Every folder contains my notes, Python practice code, and a weekly summary.
 
 ## 📚 Course Curriculum
 
-| Chapter | Topic | Status |
-|---------|-------|--------|
-| Ch 1 | Introduction to AI & Machine Learning | ✅ Done |
-| Ch 2 | Math for Data Science (Linear Algebra, Stats, Derivatives) | ✅ Done |
-| Ch 3 | NumPy, Pandas & Data Visualization | ✅ Done |
-| Ch 4 | Probability & Statistics | 🔄 In Progress |
-| Ch 5 | Machine Learning — Supervised Learning | ⏳ Upcoming |
-| Ch 6 | Machine Learning — Unsupervised Learning | ⏳ Upcoming |
-| Ch 7 | Natural Language Processing | ⏳ Upcoming |
-| Ch 8 | Neural Networks & Deep Learning | ⏳ Upcoming |
-| Ch 9 | CNN, RNN & GANs | ⏳ Upcoming |
-| Capstone | Final AI Project (80 hours) | ⏳ Upcoming |
+| Week | Chapter | Topic | Status |
+|------|---------|-------|--------|
+| Week 01 | Ch 1 & 2 | Intro to AI & Math for Data Science | ✅ Done |
+| Week 02 | Ch 3 | NumPy, Pandas & Data Visualization | ✅ Done |
+| Week 03 | Ch 4 | Probability & Statistics | ✅ Done |
+| Week 04 | Ch 5 | Machine Learning — Supervised Learning | ⏳ Upcoming |
+| Week 05 | Ch 6 | Machine Learning — Unsupervised Learning | ⏳ Upcoming |
+| Week 06 | Ch 7 | Natural Language Processing | ⏳ Upcoming |
+| Week 07 | Ch 8 | Neural Networks & Deep Learning | ⏳ Upcoming |
+| Week 08 | Ch 9 | CNN, RNN & GANs | ⏳ Upcoming |
+| Week 09+ | Capstone | Final AI Project (80 hours) | ⏳ Upcoming |
 
 ---
 
@@ -33,19 +33,30 @@ Every folder contains my notes, Python practice code, and a weekly summary.
 ```
 Samsung_Innovation_Campus_AI_Course/
 │
-├── Week-01/
-│   ├── notes.md          # Concepts learned this week
-│   ├── summary.md        # Quick weekly recap
-│   └── code/             # Python practice files
-│
-├── Week-02/
-│   └── ...
-│
-├── Capstone-Project/     # Final project (added later)
-│   ├── README.md
+├── Week-01/                  # Ch 1 & 2 — Intro to AI + Math for Data Science
+│   ├── notes.md
+│   ├── summary.md
 │   └── code/
+│       ├── math_vectors_matrices.py
+│       └── gradient_descent.py
 │
-└── Resources/            # Useful reference material
+├── Week-02/                  # Ch 3 — NumPy, Pandas & Data Visualization
+│   ├── notes.md
+│   ├── summary.md
+│   └── code/
+│       ├── numpy_basics.py
+│       ├── pandas_basics.py
+│       └── data_visualization.py
+│
+├── Week-03/                  # Ch 4 — Probability & Statistics
+│   ├── notes.md
+│   ├── summary.md
+│   └── code/
+│       ├── probability_basics.py
+│       └── statistics_basics.py
+│
+├── Capstone-Project/         # Final project (added later)
+└── Resources/
 ```
 
 ---
@@ -65,10 +76,11 @@ Samsung_Innovation_Campus_AI_Course/
 
 ## 📈 Weekly Progress
 
-| Week | Topics Covered | Chapters |
-|------|---------------|----------|
-| Week 01 | Intro to AI, Math for Data Science, NumPy & Pandas | Ch 1, 2, 3 |
-| Week 02 | Coming soon... | |
+| Week | Topics Covered | Date |
+|------|---------------|------|
+| Week 01 | Intro to AI, Math for Data Science, Linear Algebra, Gradient Descent | Apr 2026 |
+| Week 02 | NumPy, Pandas, Data Visualization (Matplotlib & Seaborn) | Apr 2026 |
+| Week 03 | Probability, Statistics, Distributions, Hypothesis Testing | Apr 2026 |
 
 ---
 
@@ -76,20 +88,17 @@ Samsung_Innovation_Campus_AI_Course/
 
 > **Project idea:** TBD — will be updated as the course progresses.
 
-The capstone is a real-world AI project worth **50% of the final grade**, evaluated on:
-- 💡 Idea (creativity & impact) — 30 pts
-- 💻 Coding quality — 30 pts
-- 🤝 Project management & teamwork — 20 pts
-- 🎤 Presentation & report — 20 pts
+Capstone = **50% of final grade**, evaluated on:
+- 💡 Idea & Impact — 30 pts
+- 💻 Code Quality — 30 pts  
+- 🤝 Teamwork & Management — 20 pts
+- 🎤 Presentation & Report — 20 pts
 
 ---
 
-## 📜 Certification
-
-To qualify for the Samsung Innovation Campus certificate:
+## 📜 Certification Criteria
 - Minimum score: **50%**
 - Minimum attendance: **90%**
 
 ---
-
 *Updated weekly every Sunday* 🗓️

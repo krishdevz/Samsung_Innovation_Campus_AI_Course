@@ -1,25 +1,26 @@
 # ⚡ Week 01 Summary
-
-**Date:** April 2026  
-**Hours completed:** ~12 hours  
-**Chapters covered:** 1, 2, 3
+**Chapters:** 1 & 2 | **Date:** April 2026
 
 ---
 
-## What I Learned
+## What I Learned This Week
 - The difference between AI, ML, Deep Learning, and Data Science
-- Three types of ML: Supervised, Unsupervised, Reinforcement
-- Math foundations: vectors, matrices, dot products, mean, std deviation
-- How models learn using Gradient Descent and derivatives
-- Data manipulation with NumPy and Pandas
-- Data visualization with Matplotlib and Seaborn
+- Three types of ML: Supervised, Unsupervised, Reinforcement — with examples
+- Data structures: Scalar, Vector, Matrix, Tensor
+- Core math: Dot product, Matrix multiplication, Transpose
+- Descriptive stats: Mean, Median, Mode, Variance, Std Deviation
+- How to scale data: Normalization vs Standardization
+- How models learn: Derivatives, Loss Function, Gradient Descent, Chain Rule
 
 ## Toughest Concept This Week
-Gradient Descent — understanding how derivatives guide the model to minimize loss
+**Gradient Descent** — understanding that a derivative tells you the slope, and the model moves opposite to the slope to minimise loss. The chain rule was also tricky.
 
 ## Most Interesting Thing
-That all images, text, and audio get converted to numbers (tensors) before ML can process them
+That every ML prediction is essentially a **dot product** — multiply feature values by weights and sum. That simple operation is at the heart of all ML models.
+
+## Biggest Mistake to Avoid
+Confusing **Normalization** (scales to [0,1]) with **Standardization** (centres at 0). They are different and used in different situations.
 
 ## Next Week Plan
-- Chapter 4: Probability & Statistics (deep dive)
-- Practice: more Pandas EDA on a real dataset
+- Chapter 3: NumPy arrays, Pandas DataFrames, Data Visualization
+- Practice: Build arrays, load CSV files, create plots
